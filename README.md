@@ -4,7 +4,7 @@
  - Create an automated ETL pipeline
  - Extract data from multiple sources
  - Clean and transform the data automatically using Pandas and regular expressions
- - Load new data into PostgreSQl
+ - Load new data into PostgreSQL
  
 # Resources
 - Wikipedia data
@@ -12,4 +12,6 @@
 - MovieLens rating data
 
 # Results
-Look at ![challenge.ipynb](https://github.com/sdang101/Movies-ETL/blob/master/challenge.ipynb)
+Look at for written analysis ![challenge.py](https://github.com/sdang101/Movies-ETL/blob/master/challenge.py)
+
+
